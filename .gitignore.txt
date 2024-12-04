@@ -1,5 +1,0 @@
-.idea
-pybo.db
-migrations
-__pycache__
-*.pyc
